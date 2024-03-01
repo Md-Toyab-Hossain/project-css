@@ -1,0 +1,31 @@
+h1 {
+  color: rgb(69, 180, 231);
+  background-color: rgb(220, 235, 245);
+  font-size: 50px; 
+   font-family: "Anta", sans-serif;
+font-weight: 400;
+text-align: center;
+}
+p{
+  text-align: justify;
+  text-align-last: center;
+  font-size: 20px;
+  line-height: 2;
+  background-color: aqua;
+}
+.btn{
+  color: #000;
+  background-color: rgb(241, 241, 54);
+}
+.btm{
+  color: aqua;
+  background-color: black;
+}
+#test{
+  width: 100px;
+  height: 100px;
+  background-color: rgb(236, 232, 232);
+  color: black;
+  line-height: 30px;
+  text-align: center;
+}
